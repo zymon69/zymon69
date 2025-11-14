@@ -7,7 +7,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 🌱 I'm currently learning **new technologies and frameworks**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **Python, JavaScript, Java, and software development**
-- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I love coding and problem-solving!**
 
 ## 🛠️ Technologies & Tools
